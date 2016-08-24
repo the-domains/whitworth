@@ -1,4 +1,3 @@
-layout_spectrum: 0.08559695119038224
 typography_spectrum: 0.347941882442683
 color:
   brandStrength: 0.21783106098882854
@@ -6,9 +5,11 @@ color:
   saturation: 0.9436205211095512
   rhythmicContrast: 0.5499762315303087
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.08559695119038224
 name: whitworth
+title: hep me pease
