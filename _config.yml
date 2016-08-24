@@ -1,0 +1,14 @@
+layout_spectrum: 0.08559695119038224
+typography_spectrum: 0.347941882442683
+color:
+  brandStrength: 0.21783106098882854
+  lightness: 0.3761538171675056
+  saturation: 0.9436205211095512
+  rhythmicContrast: 0.5499762315303087
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+name: whitworth
